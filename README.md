@@ -61,10 +61,10 @@ The dataset is available in CSV format and can be easily imported into statistic
 Acknowledgments</h3>
 <br>
 We would like to thank the National Survey on Drug Use and Health and the Centers for Disease Control and Prevention for providing the data used in this analysis.
-<br><br>
+<br><br> 
 
 <h3>
-License</h3>
+License</h3>  
 <br>
 This dataset is released under the Creative Commons Attribution 4.0 International License.
 
